@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: "https://stackoverflow.com/questions/6313126/how-to-remove-a-directory-from-git-repository"
+    url: /about/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

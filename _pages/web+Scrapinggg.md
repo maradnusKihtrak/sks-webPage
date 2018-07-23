@@ -1,6 +1,6 @@
 
 ---
-title:  "Scraping Indeed.com for jobs"
+layout: archive
 ---
 
 # Test File sks sbd

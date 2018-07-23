@@ -1,6 +1,7 @@
 
 ---
-layout: archive
+title : "About"
+permalink: /web+Scrapinggg/
 ---
 
 # Test File sks sbd

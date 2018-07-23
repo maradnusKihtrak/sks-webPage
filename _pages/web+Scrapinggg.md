@@ -1,9 +1,9 @@
 
 ---
 title:  "Scraping Indeed.com for jobs"
-categories:
-  - Markup
 ---
+<h1> {{ title }} </h1>
+
 # Test File sks sbd
 
 

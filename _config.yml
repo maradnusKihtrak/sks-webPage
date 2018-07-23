@@ -21,7 +21,7 @@ title_separator          : "-"
 name                     : "Karthik Sundaram"
 description              : "karthik's website."
 url                      : "https://maradnuskihtrak.github.io/"
-baseurl                  : "/web-sbd-logo.jpg"
+baseurl                  : "/test-folder-sks"
 repository               : "maradnusKihtrak/karthik_testweb"
 teaser                   : /assets/images/500x300.png
 # breadcrumbs            : false # true, false (default)

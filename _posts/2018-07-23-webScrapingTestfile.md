@@ -4,9 +4,6 @@ layout: archive
 title: "webScr"
 header:
   image: "/assets/images/web-sbd-logo.jpg"
-date: 2018-07-23
-tags: [scraping]
-excerpt: "cat, scraping, apple"
 ---
 
 # Test File sks sbd

@@ -1,7 +1,11 @@
 
 ---
-header:
-  image: "/assets/images/web-sbd-logo.jpg"
+title:  "News Categorization using Multinomial Naive Bayes and Logistic Regression"
+categories:
+  - Markup
+date:   2018-02-25
+tags: [Classification]
+excerpt: "Headlines, Classification, Naive Bayes, Logistic Regression"
 ---
 
 # Test File sks sbd

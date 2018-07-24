@@ -1,12 +1,9 @@
 
 ---
-title:  "Web Scraping - test 123"
-categories:
-  - Markup
-date:   2018-07-23
-tags: [scraping]
-header:
-  image: "assets/images/indeed_scraping/web-sbd-logo.jpg"
+layout: post
+title: chickpea
+img:
+  small:  "assets/images/indeed_scraping/web-sbd-logo.jpg"
 excerpt: "cat, scraping, apple"
 ---
 ![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/images/web-sbd-logo.jpg)

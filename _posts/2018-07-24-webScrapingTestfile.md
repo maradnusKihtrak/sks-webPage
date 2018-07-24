@@ -1,16 +1,4 @@
 
----
-title:  " Logistic Regression"
-categories:
-  - Markup
-date:   2018-07-24
-
-header:
-  image: "assets/images/page0001.jpg"
- 
-tags: [Classification]
-excerpt: "Headlines, Classification, Naive Bayes, Logistic Regression"
----
 
 # Test File sks sbd
 

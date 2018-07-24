@@ -1,7 +1,5 @@
 
 ---
-layout: archive
-title: "webScr"
 header:
   image: "/assets/images/web-sbd-logo.jpg"
 ---

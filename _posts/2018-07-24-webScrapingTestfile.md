@@ -31,7 +31,7 @@ data.append((name, price))
 
 
 ```
-
+![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/images/page0001.jpg)
 
 ```python
 ########## Saved to csv ##########

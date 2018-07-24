@@ -23,7 +23,7 @@ description              : "karthik's website."
 url                      : "https://maradnuskihtrak.github.io"
 baseurl                  : "/sks-webPage"
 repository               : #"maradnusKihtrak/karthik_testweb"
-teaser                   : /assets/images/500x300.png
+teaser                   : /assets/images/web-sbd-logo.jpg
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:

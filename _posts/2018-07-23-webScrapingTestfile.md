@@ -4,6 +4,10 @@ title:  "News Categorization using Multinomial Naive Bayes and Logistic Regressi
 categories:
   - Markup
 date:   2018-02-25
+
+header:
+  image: "assets/images/page0001.jpg"
+ 
 tags: [Classification]
 excerpt: "Headlines, Classification, Naive Bayes, Logistic Regression"
 ---

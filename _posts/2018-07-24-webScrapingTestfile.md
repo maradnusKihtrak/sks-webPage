@@ -1,9 +1,9 @@
 
 ---
-title:  "News Categorization using Multinomial Naive Bayes and Logistic Regression"
+title:  " Logistic Regression"
 categories:
   - Markup
-date:   2018-02-25
+date:   2018-07-24
 
 header:
   image: "assets/images/page0001.jpg"

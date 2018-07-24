@@ -1,4 +1,7 @@
-
+---
+header:
+  teaser: /assets/images/web-sbd-logo.jpg
+---
 
 # Test File sks sbd
 
